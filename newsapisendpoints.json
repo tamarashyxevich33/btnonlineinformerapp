@@ -1,0 +1,4 @@
+{
+"firstNewsApiEndPoint":"https://google.com",
+"backupNewsApiEndPoint":"https://apple.com"
+}
